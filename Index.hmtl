@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الدليل العملي الشامل للعمل عن بُعد من تونس</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333; line-height: 1.6; padding: 20px; }
+        .container { max-width: 600px; background: white; padding: 30px; margin: auto; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        h1 { color: #e63946; text-align: center; font-size: 24px; }
+        .intro { background: #f1faee; padding: 15px; border-right: 5px solid #1d3557; margin-bottom: 20px; font-weight: bold; }
+        ul { list-style: none; padding: 0; }
+        li { background: #f8f9fa; margin: 10px 0; padding: 15px; border-radius: 5px; border: 1px solid #ddd; }
+        .badge { background: #1d3557; color: white; padding: 3px 8px; border-radius: 3px; font-size: 12px; margin-left: 5px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>الدليل العملي الشامل للعمل عن بُعد من تونس</h1>
+        <p class="intro">كيفاش تخدم من تونس وتخلص بالدولار والأورو؟ الدليل الجاهز للتطبيق العملي.</p>
+        
+        <h3>📌 المحتويات الأساسية للدليل:</h3>
+        <ul>
+            <li><span class="badge">1</span> <strong>الـ CV والـ LinkedIn:</strong> تهيئة الهوية الرقمية بالإنجليزية لتجاوز فلاتر الـ ATS وجذب الشركات الدولية.</li>
+            <li><span class="badge">2</span> <strong>منصات التوظيف الكامل:</strong> التركيز على الاستقرار والعقود الكاملة عبر We Work Remotely و Remote.co.</li>
+            <li><span class="badge">3</span> <strong>الجانب المالي في تونس:</strong> فتح حسابات Elevate Pay و Payoneer والسحب المباشر للدينار التونسي.</li>
+        </ul>
+    </div>
+</body>
+</html>
